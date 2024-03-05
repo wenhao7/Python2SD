@@ -1,0 +1,1 @@
+{"prompt": "", "seed": 3456789904, "negative_prompt": "", "batch_size": 1, "steps": 15, "cfg_scale": 7, "alwayson_scripts": {"controlnet": {"args": [{"input_image": "test", "module": "scribble_hed", "model": "control_v11p_sd15_scribble [d4ba51ff]"}]}}}
